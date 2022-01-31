@@ -1,6 +1,7 @@
 # ```MovieZine```
 
 MovieZine ia an iOS app for "all about latest movies" using TDMB api and swiftUI.
+(This is my submission for BrewApps LLC iOS development internship assignment.)
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
