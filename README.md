@@ -5,6 +5,8 @@ MovieZine ia an iOS app for "all about latest movies" using TDMB api and swiftUI
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+![Profile views](https://gpvc.arturio.dev/adityagi02)
+
 ![View](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/FinalView.gif)
 
 ## HomePage
