@@ -111,6 +111,7 @@
 				ACBD0D4C27A817DD009CEB80 /* FinalView.gif */,
 			);
 			name = readmeDocs;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		ACE1F5E627A7F239004DD0CE = {
@@ -134,7 +135,6 @@
 			isa = PBXGroup;
 			children = (
 				ACE1F5F427A7F239004DD0CE /* ContentView.swift */,
-				ACBD0D3F27A8127E009CEB80 /* readmeDocs */,
 				ACE1F60427A7F43E004DD0CE /* Services */,
 				ACE1F60327A7F436004DD0CE /* Bindings */,
 				ACE1F60227A7F425004DD0CE /* Views */,
@@ -153,6 +153,7 @@
 		ACE1F5F827A7F23A004DD0CE /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				ACBD0D3F27A8127E009CEB80 /* readmeDocs */,
 				ACE1F5F927A7F23A004DD0CE /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
