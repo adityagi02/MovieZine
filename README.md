@@ -10,7 +10,7 @@ MovieZine ia an iOS app for "all about latest movies" using TDMB api and swiftUI
 
 <img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/FinalView.gif" alt=" " width="300" height="502">
 
-<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/Home%20Page.png" alt=" " width="1200" height="620">
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/Home%20Page.png" alt=" " width="1200" height="600">
 
 
 
