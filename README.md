@@ -15,21 +15,18 @@ MovieZine ia an iOS app for "all about latest movies" using TDMB api and swiftUI
 
 
 ### When the movie has rating less than 7 it has this smaller view.
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/HomePage-2.png" alt=" " width="720" height="750">
 
-![HomePage](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/HomePage-2.png)
 
 
 ## Trailer + Description View
-
-![DetailedView](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/DetailedViewPAge.png)
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/DetailedViewPAge.png" alt=" " width="720" height="750">
 
 ## Playing Trailer
 
-![Trailer](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning.png)
-
-![Trailer](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning2.png)
-
-![Trailer](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning3.png)
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning.png" alt=" " width="720" height="450">
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning2.png" alt=" " width="720" height="450">
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/TrailerRunning3.png" alt=" " width="720" height="450">
 
 
 
