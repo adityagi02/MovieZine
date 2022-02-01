@@ -6,11 +6,13 @@ MovieZine ia an iOS app for "all about latest movies" using TDMB api and swiftUI
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-![View](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/FinalView.gif)
-
 ## HomePage
 
-![HomePage](https://github.com/adityagi02/MovieZine/blob/main/Moviezine/Home%20Page.png)
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/FinalView.gif" alt=" " width="300" height="502">
+
+<img src="https://github.com/adityagi02/MovieZine/blob/main/Moviezine/Home%20Page.png" alt=" " width="1200" height="620">
+
+
 
 ### When the movie has rating less than 7 it has this smaller view.
 
